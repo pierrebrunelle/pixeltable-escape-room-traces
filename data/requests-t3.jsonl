@@ -1,0 +1,6 @@
+{"request_id": "R013", "tick": "t3", "room": "vault", "party_size": 5, "received_at": "2026-11-24T10:00:00-08:00", "message": "Is there parking near the venue?"}
+{"request_id": "R014", "tick": "t3", "room": "lab", "party_size": 3, "received_at": "2026-11-24T10:09:00-08:00", "message": "Cancel our Sunday booking please, flight got changed."}
+{"request_id": "R015", "tick": "t3", "room": "lighthouse", "party_size": 8, "received_at": "2026-11-24T10:18:00-08:00", "message": "Book the Lighthouse Keeper for 8 next Friday at 6pm, we are a scout troop."}
+{"request_id": "R016", "tick": "t3", "room": "vault", "party_size": 4, "received_at": "2026-11-24T10:27:00-08:00", "message": "The game master was amazing but the room was really hot, maybe fix the AC?"}
+{"request_id": "R017", "tick": "t3", "room": "lab", "party_size": 2, "received_at": "2026-11-24T10:36:00-08:00", "message": "Can kids under 12 play the Laboratory?"}
+{"request_id": "R018", "tick": "t3", "room": "lighthouse", "party_size": 5, "received_at": "2026-11-24T10:45:00-08:00", "message": "Need to move our booking from 3pm to 5pm today, sorry for the short notice!"}

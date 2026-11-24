@@ -1,0 +1,20 @@
+[project]
+name = "pixeltable-escape-room-traces"
+version = "0.1.0"
+description = "LLM observability without another SaaS: Pixeltable's OpenTelemetry spans for every insert and gpt-4o-mini call land in a table next to the outputs, and group_by queries give latency, p95 and token usage per scheduled run - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "computed-columns", "data-infrastructure", "escape-room-traces"]
+dependencies = [
+    "pixeltable>=0.7.26",
+    "opentelemetry-sdk",
+    "openai",
+    "pixeltable[otel]",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

@@ -1,0 +1,6 @@
+{"request_id": "R001", "tick": "t1", "room": "vault", "party_size": 4, "received_at": "2026-11-24T08:00:00-08:00", "message": "Hi! Can we book the Midnight Vault for four people this Saturday around 7pm?"}
+{"request_id": "R002", "tick": "t1", "room": "lab", "party_size": 5, "received_at": "2026-11-24T08:09:00-08:00", "message": "We booked the Laboratory for Friday but one person is sick. Can we move to next week?"}
+{"request_id": "R003", "tick": "t1", "room": "lighthouse", "party_size": 8, "received_at": "2026-11-24T08:18:00-08:00", "message": "Is the Lighthouse room wheelchair accessible? My uncle uses a chair."}
+{"request_id": "R004", "tick": "t1", "room": "vault", "party_size": 3, "received_at": "2026-11-24T08:27:00-08:00", "message": "Please cancel booking EV-2291, we cannot make it anymore."}
+{"request_id": "R005", "tick": "t1", "room": "lab", "party_size": 2, "received_at": "2026-11-24T08:36:00-08:00", "message": "The clue lock in the lab was broken during our game last night and staff ignored us. Very disappointed."}
+{"request_id": "R006", "tick": "t1", "room": "lighthouse", "party_size": 6, "received_at": "2026-11-24T08:45:00-08:00", "message": "Birthday party for six on Sunday afternoon, any slot after 2pm works."}

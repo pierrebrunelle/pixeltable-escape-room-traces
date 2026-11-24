@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "escape-room bookings pipeline built with Pixeltable"
+abstract: "LLM observability without another SaaS: Pixeltable's OpenTelemetry spans for every insert and gpt-4o-mini call land in a table next to the outputs, and group_by queries give latency, p95 and token usage per scheduled run."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-escape-room-traces"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-24
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "data-pipeline"
+  - "tracing"
+  - "escape-room"
+  - "openai"
+  - "multimodal"
+  - "ai"
+  - "data-infrastructure"

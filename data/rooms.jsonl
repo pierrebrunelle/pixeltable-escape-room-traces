@@ -1,0 +1,3 @@
+{"room_id": "vault", "name": "The Midnight Vault", "max_party": 6, "minutes": 60}
+{"room_id": "lab", "name": "Dr. Quill's Laboratory", "max_party": 5, "minutes": 75}
+{"room_id": "lighthouse", "name": "Lighthouse Keeper", "max_party": 8, "minutes": 90}
